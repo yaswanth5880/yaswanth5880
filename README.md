@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yaswanth 👋
 
-<!--
-**yaswanth5880/yaswanth5880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security Graduate passionate about Cloud Security, Threat Detection and Security Research.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BE CSE (Cyber Security)
+- ☁️ Learning AWS & Cloud Security
+- 🔐 Interested in Network Security and Threat Detection
+- 📈 Exploring Financial Markets and Trading
+- 🚀 Open to Cyber Security and Cloud Security opportunities
+
+## Skills
+
+- Python
+- Linux
+- Networking
+- AWS
+- Cloud Security
+- Incident Response
+- Wireshark
+
+## Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yaswanth-p-s-26911a403/
+- 📌 Previous LinkedIn Profile: https://www.linkedin.com/in/balayaswanth/ (currently unavailable due to account compromise)
