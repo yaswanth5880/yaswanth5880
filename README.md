@@ -22,5 +22,5 @@ Cyber Security Graduate passionate about Cloud Security, Threat Detection and Se
 
 ## Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/balayaswanth
+- 💼 LinkedIn: [](https://www.linkedin.com/in/balayaswanth/)
 - 📧 Email: balayswanth588@gmail.com
